@@ -1,0 +1,4 @@
+cookies.json
+courses.json
+*.pyc
+__pycache__/
